@@ -44,3 +44,5 @@ class RacingCarGame {
 }
 
 module.exports = RacingCarGame;
+
+//테스트
